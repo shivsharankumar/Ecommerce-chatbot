@@ -20,11 +20,33 @@ faq = Route(
     #     "What payment methods are accepted?",
     #     "How long does it take to process a refund?",
     # ],
-    utterances=["How does retimer work?"              
-     "Who can benefit from retimer?"                         
-     "When do I wear it?"                    
-     "How do I know it works?"    
-     "How long does it take to start working?","when do i wear?"],
+    utterances=["How does retimer work?",
+                "Who can benefit from retimer?",
+                "When do I wear it?",
+                "How do I know it works?",
+                "How long does it take to start working?",
+                "Can I use the device more than once a day?",
+                "Can I read or work while using retimer?",
+                "Can I drive while using retimer?",
+                "Can I shower while using retimer?",
+                "Can I wear retimer outside?",
+                "Where can I get the retimer mobile app?",
+                "Who benefits from retimer?",
+                "When do I wear it?",
+                "Why is the light blue-green?",
+                "Once charged, how long will it last?",
+                "Can I wear them while they are charging?",
+                "Who shouldn’t use retimer?",
+                "Is the light source safe for the eyes?",
+                "Once I use retimer, will my body clock be back on track permanently?",
+                "Are there specific tips to improve the use/results of retimer?",
+                "Do you have more information on how light therapy works?",
+                "How does retimer compare to a light box?",
+                "Do I need to pay import duties or taxes?",
+                "I suffer from an eye condition, can I use retimer?",
+                "I am on a light-sensitive (photosensitizing) medication, is it okay for me to use the light?",
+                "Does retimer come with a carry case?",
+],
     score_threshold=0.4
 )
 # faq = Route(
