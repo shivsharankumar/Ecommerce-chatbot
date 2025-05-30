@@ -4,8 +4,8 @@ Retimer Bot - An Intelligent Chatbot System
 This module implements a Streamlit-based chatbot that can handle different types of queries
 through semantic routing. It supports FAQ responses, SQL queries, and casual conversation.
 
-Author: [Your Name]
-Date: [Current Date]
+Author: [Shiv Sharan Kumar]
+Date: [30-may-2025]
 """
 
 import streamlit as st
